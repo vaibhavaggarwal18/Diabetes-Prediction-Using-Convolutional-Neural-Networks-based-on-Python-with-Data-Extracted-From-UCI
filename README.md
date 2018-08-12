@@ -1,0 +1,1 @@
+# Diabetes-Prediction-Using-Convolutional-Neural-Networks-based-on-Python-with-Data-Extracted-From-UCI
